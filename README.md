@@ -2,21 +2,61 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Dhruv!;A+Developer+%F0%9F%92%BB;Cybersec+Enthusiast+%F0%9F%94%AB;Flutter+%26+Backend+Dev+%F0%9F%94%A5" alt="Typing SVG" />
 </h1>
 
-🎓 I'm a BTech CSE student passionate about AI, development and cybersecurity.  
-🎸 I play the guitar, mess with code, and love anime & music.
+<p align="center">
+  <a href="https://www.linkedin.com/in/dhruv-samuel-0211a527a/">
+    <img src="https://img.shields.io/badge/LinkedIn-DhruvSamuel-2ecc71?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/dhruv_samuel/">
+    <img src="https://img.shields.io/badge/Instagram-DhruvSamuel-2ecc71?style=for-the-badge&logo=instagram" alt="Instagram" />
+  </a>
+</p>
 
-## 🔧 Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
-![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java)
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
-![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
-![MongoDB](https://img.shields.io/badge/-MongoDB-darkgreen?style=flat-square&logo=mongodb)
+---
 
-## 📈 GitHub Stats
-![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=embontooth&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=embontooth&layout=compact&theme=radical)
+## About Me
 
-## 📫 Let's Connect!
-- [LinkedIn]([https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/dhruv-samuel-0211a527a/))
-- Email: dhruvsamuel05@gmail.com
+Hi, I'm Dhruv — a BTech CSE student with a passion for technology and development. I work on full-stack projects using Node.js, Express, MongoDB, and Flutter. Currently diving into the world of cybersecurity and always eager to learn more. Outside of code, I enjoy music, anime, and occasionally playing guitar and piano.
 
+---
+
+## Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xponent-dmg&show_icons=true&theme=vue" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xponent-dmg&layout=compact&theme=vue" alt="Top Languages" />
+</div>
+
+---
+
+## Featured Project
+
+### [Pathfinder](https://github.com/Embontooth/pathfinder_Dhruv)
+Pathfinder is a location-based app that helps users navigate and discover routes using the Google Maps API. Built with Flutter, it provides an interactive map interface for real-time location tracking, route plotting, and easy navigation. We also implemented an efficient search and filtering system using Flutter and Express.
+
+*(For more projects, check out my pinned repositories below.)*
+
+---
+
+## Contact Me
+
+I'm always open to connecting, discussing projects, or collaborating. Feel free to reach out!
+
+- **Email:** [dhruvsamuel05@gmail.com](mailto:dhruvsamuel05@gmail.com)
+- **LinkedIn:** [Dhruv Samuel](https://www.linkedin.com/in/dhruv-samuel-0211a527a/)
+- **Instagram:** [@dhruv_samuel](https://www.instagram.com/dhruv_samuel/)
+
+---
+
+If you like what you see, don't forget to give a ⭐ to my repositories. Thanks for stopping by!
