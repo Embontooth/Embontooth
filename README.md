@@ -15,7 +15,7 @@
 
 ## About Me
 
-Hi, I'm Dhruv — a BTech CSE student with a passion for technology and development. I work on full-stack projects using Node.js, Express, MongoDB, and Flutter. Currently diving into the world of cybersecurity and always eager to learn more. Outside of code, I enjoy music, anime, and occasionally playing guitar and piano.
+Hi, I'm Dhruv — a BTech CSE student with a passion for technology and development. I work on full-stack projects using Node.js, Express, MongoDB, and Flutter. Currently diving into the world of cybersecurity and always eager to learn more. Outside of code, I enjoy music, TV shows, movies, and occasionally playing guitar and piano.
 
 ---
 
@@ -60,7 +60,7 @@ Want to get to know me better? Check out my resume and portfolio below!
 ### [Pathfinder](https://github.com/Embontooth/pathfinder_Dhruv)
 Pathfinder is a location-based app that helps users navigate and discover routes using the Google Maps API. Built with Flutter, it provides an interactive map interface for real-time location tracking, route plotting, and easy navigation. We also implemented an efficient search and filtering system using Flutter and Express.
 
-*(For more projects, check out my pinned repositories below.)*
+*(For more projects and what im working on, check out my pinned repositories below.)*
 
 ---
 
