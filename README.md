@@ -11,10 +11,10 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-darkgreen?style=flat-square&logo=mongodb)
 
 ## 📈 GitHub Stats
-![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruvxyz&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvxyz&layout=compact&theme=radical)
+![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=embontooth&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=embontooth&layout=compact&theme=radical)
 
 ## 📫 Let's Connect!
-- [LinkedIn](https://linkedin.com/in/YOUR-LINK)
-- Email: yourname@gmail.com
+- [LinkedIn]([https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/dhruv-samuel-0211a527a/))
+- Email: dhruvsamuel05@gmail.com
 
