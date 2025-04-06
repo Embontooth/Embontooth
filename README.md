@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Dhruv!;A+Developer+%F0%9F%92%BB;Cybersecurity+Enthusiast+%F0%9F%94%AB;Flutter+%26+Backend+Dev+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Dhruv!;A+Developer+%F0%9F%92%BB;Cybersec+Enthusiast+%F0%9F%94%AB;Flutter+%26+Backend+Dev+%F0%9F%94%A5" alt="Typing SVG" />
 </h1>
 
 🎓 I'm a BTech CSE student passionate about AI, development and cybersecurity.  
