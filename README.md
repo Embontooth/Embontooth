@@ -27,7 +27,7 @@ Want to get to know me better? Check out my resume and portfolio below!
   <a href="https://github.com/embontooth/embontooth/raw/main/Resume_2ndYear.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download%20Resume-2ecc71?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume" />
   </a>
-  <a href="[https://your-portfolio-link.com](https://embontooth.github.io/Portfolio//)" target="_blank">
+  <a href="https://embontooth.github.io/Portfolio//" target="_blank">
     <img src="https://img.shields.io/badge/View%20Portfolio-2ecc71?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
