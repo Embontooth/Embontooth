@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dhruv-samuel-0211a527a/">
-    <img src="https://img.shields.io/badge/LinkedIn-DhruvSamuel-2ecc71?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-DhruvSamuel-2ecc71?&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/dhruv_samuel/">
     <img src="https://img.shields.io/badge/Instagram-DhruvSamuel-2ecc71?style=for-the-badge&logo=instagram" alt="Instagram" />
