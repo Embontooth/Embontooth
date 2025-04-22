@@ -49,8 +49,8 @@ Want to get to know me better? Check out my resume and portfolio below!
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xponent-dmg&show_icons=true&theme=vue" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xponent-dmg&layout=compact&theme=vue" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=embontooth&show_icons=true&theme=vue" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=embontooth&layout=compact&theme=vue" alt="Top Languages" />
 </div>
 
 ---
