@@ -24,7 +24,7 @@ Hi, I'm Dhruv — a BTech CSE student with a passion for technology and developm
 Want to get to know me better? Check out my resume and portfolio below!
 
 <p align="center">
-  <a href="https://github.com/embontooth/embontooth/raw/main/Resume_2ndYear.pdf" target="_blank">
+  <a href="https://github.com/embontooth/embontooth/raw/main/Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download%20Resume-2ecc71?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume" />
   </a>
   <a href="https://embontooth.github.io/Portfolio//" target="_blank">
@@ -36,13 +36,33 @@ Want to get to know me better? Check out my resume and portfolio below!
 ## Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <!-- Core Languages -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+
+  <!-- Backend -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-2ecc71?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+
+  <!-- Database -->
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+
+  <!-- Frontend -->
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+
+  <!-- Cybersecurity -->
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Nmap-004B87?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
 </div>
+
+
 
 ---
 
@@ -60,6 +80,18 @@ Want to get to know me better? Check out my resume and portfolio below!
 ### [Pathfinder](https://github.com/Embontooth/pathfinder_Dhruv)
 Pathfinder is a location-based app that helps users navigate and discover routes using the Google Maps API. Built with Flutter, it provides an interactive map interface for real-time location tracking, route plotting, and easy navigation. We also implemented an efficient search and filtering system using Flutter and Express.
 
+### [RAG Backend System](https://github.com/Embontooth/rag-backend)  
+A **Retrieval-Augmented Generation (RAG) backend** for answering queries from uploaded PDFs.  
+- Built with **FastAPI**  
+- Vectorized documents using **FAISS**  
+- API supports **continuous uptime + public access**  
+
+### [Vehnicate](https://github.com/vehnicate-org/prototype)  
+Contributing to **Vehnicate**, a startup project focused on **gamifying driving**.  
+- **Frontend development, design** using Flutter and Figma (UI/UX, user flows)  
+- **Authentication system** using Firebase, Supabase (secure login & signup)  
+- **Backend development** for sending real time IMU user data securely to a server from the app
+  
 *(For more projects and what im working on, check out my pinned repositories below.)*
 
 ---
