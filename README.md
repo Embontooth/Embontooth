@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=2ECC71&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Dhruv+Samuel!;A+Developer+%F0%9F%92%BB;Cybersec+Enthusiast+%F0%9F%A5%B7;Flutter+%26+Backend+Dev+%F0%9F%97%84%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=2ECC71&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Dhruv+Samuel!;Full-Stack+Developer+%F0%9F%92%BB;Cybersecurity+Enthusiast+%F0%9F%A5%B7;Flutter+%26+Backend+Dev+%F0%9F%97%84%EF%B8%8F" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -11,7 +11,10 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=embontooth&style=for-the-badge&color=2ecc71" alt="Profile Views" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=embontooth&theme=vue&hide_border=false&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</p>
 
 ## About Me
 
@@ -34,7 +37,6 @@ Want to get to know me better? Check out my resume and portfolio below!
 
 
 ## Tech Stack
-
 <div align="center">
   <!-- Core Languages -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -60,6 +62,8 @@ Want to get to know me better? Check out my resume and portfolio below!
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
   <img src="https://img.shields.io/badge/Nmap-004B87?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </div>
 
 
@@ -70,15 +74,18 @@ Want to get to know me better? Check out my resume and portfolio below!
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=embontooth&show_icons=true&theme=vue" alt="GitHub Stats" />
+</div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=embontooth&layout=compact&theme=vue" alt="Top Languages" />
 </div>
 
+## Featured Projects
+
+### [Pathfinder](https://github.com/Embontooth/pathfinder_Dhruv)  
+A **location-based app** built with **Flutter + Google Maps API** to help users discover routes, track locations, and plot navigation in real-time.  
+Includes **Express.js backend integration** with search & filter functionalities.  
+
 ---
-
-## Featured Project
-
-### [Pathfinder](https://github.com/Embontooth/pathfinder_Dhruv)
-Pathfinder is a location-based app that helps users navigate and discover routes using the Google Maps API. Built with Flutter, it provides an interactive map interface for real-time location tracking, route plotting, and easy navigation. We also implemented an efficient search and filtering system using Flutter and Express.
 
 ### [RAG Backend System](https://github.com/Embontooth/rag-backend)  
 A **Retrieval-Augmented Generation (RAG) backend** for answering queries from uploaded PDFs.  
@@ -86,15 +93,27 @@ A **Retrieval-Augmented Generation (RAG) backend** for answering queries from up
 - Vectorized documents using **FAISS**  
 - API supports **continuous uptime + public access**  
 
+---
+
 ### [Vehnicate](https://github.com/vehnicate-org/prototype)  
 Contributing to **Vehnicate**, a startup project focused on **gamifying driving**.  
-- **Frontend development, design** using Flutter and Figma (UI/UX, user flows)  
-- **Authentication system** using Firebase, Supabase (secure login & signup)  
-- **Backend development** for sending real time IMU user data securely to a server from the app
-  
-*(For more projects and what im working on, check out my pinned repositories below.)*
+- **Frontend development & UI design** with Flutter + Figma  
+- **Authentication system** using Firebase & Supabase  
+- **Backend development** for securely sending real-time IMU user data to the server  
 
 ---
+
+## 🛡 Cybersecurity Projects
+
+- **Phishing Email Detection System** → Built with **Splunk, Wireshark, Nmap & Python**  
+- **DNS Enumeration Tool** → Scripted with `dns.resolver` to extract DNS records (A, AAAA, MX, TXT, SOA) :contentReference[oaicite:3]{index=3}  
+- **PDF Password Cracker** → Brute-force/wordlist-based PDF password recovery tool using `pikepdf`, multithreading, and tqdm :contentReference[oaicite:4]{index=4}  
+- **PDF Encryptor** → Python tool to encrypt PDF files with a password using `PyPDF2` :contentReference[oaicite:5]{index=5}  
+
+*(More experiments ongoing — check pinned repos for updates.)*  
+
+---
+
 
 ## Contact Me
 
