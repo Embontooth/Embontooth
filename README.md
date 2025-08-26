@@ -82,7 +82,7 @@ Includes **Express.js backend integration** with search & filter functionalities
 
 ---
 
-### [RAG Backend System](https://github.com/Embontooth/rag-backend)  
+### [RAG Backend System](https://github.com/Embontooth/BajajHackX_Backend)
 A **Retrieval-Augmented Generation (RAG) backend** for answering queries from uploaded PDFs.  
 - Built with **FastAPI**  
 - Vectorized documents using **FAISS**  
