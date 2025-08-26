@@ -11,11 +11,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=embontooth&style=for-the-badge&color=2ecc71" alt="Profile Views" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=embontooth&theme=vue&hide_border=false&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</p>
-
 ## About Me
 
 Hi, I'm Dhruv — a BTech CSE student with a passion for technology and development. I work on full-stack projects using Node.js, Express, MongoDB, and Flutter. Currently diving into the world of cybersecurity and always eager to learn more. Outside of code, I enjoy music, TV shows, movies, and occasionally playing guitar and piano.
@@ -106,10 +101,9 @@ Contributing to **Vehnicate**, a startup project focused on **gamifying driving*
 ## 🛡 Cybersecurity Projects
 
 - **Phishing Email Detection System** → Built with **Splunk, Wireshark, Nmap & Python**  
-- **DNS Enumeration Tool** → Scripted with `dns.resolver` to extract DNS records (A, AAAA, MX, TXT, SOA) :contentReference[oaicite:3]{index=3}  
-- **PDF Password Cracker** → Brute-force/wordlist-based PDF password recovery tool using `pikepdf`, multithreading, and tqdm :contentReference[oaicite:4]{index=4}  
-- **PDF Encryptor** → Python tool to encrypt PDF files with a password using `PyPDF2` :contentReference[oaicite:5]{index=5}  
-
+- **DNS Enumeration Tool** → Scripted with `dns.resolver` to extract DNS records (A, AAAA, MX, TXT, SOA) 
+- **PDF Password Cracker** → Brute-force/wordlist-based PDF password recovery tool using `pikepdf`, multithreading, and tqdm 
+- **PDF Encryptor** → Python tool to encrypt PDF files with a password using `PyPDF2` 
 *(More experiments ongoing — check pinned repos for updates.)*  
 
 ---
