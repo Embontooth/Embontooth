@@ -12,8 +12,9 @@
 </p>
 
 ## About Me
-
-Hi, I'm Dhruv — a BTech CSE student with an interest in technology and development. I work on full-stack projects using FastAPI, Firebase, Supabase and Flutter (mainly backend). Currently diving into the world of cybersecurity and always eager to learn more.
+<p>
+    Hi, I'm Dhruv — a BTech CSE student with an interest in technology and development. I work on full-stack projects using FastAPI, Firebase, Supabase and Flutter (mainly backend). Currently diving into the world of cybersecurity and always eager to learn more.
+</p>
 ---
 
 ## Resume & Portfolio
@@ -21,7 +22,7 @@ Hi, I'm Dhruv — a BTech CSE student with an interest in technology and develop
 Check out my resume and portfolio below
 
 <p align="center">
-  <a href="https://github.com/embontooth/embontooth/raw/main/Resume.pdf" target="_blank">
+  <a href="https://github.com/embontooth/embontooth/raw/main/Resume3rd.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download%20Resume-2ecc71?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume" />
   </a>
   <a href="https://embontooth.github.io/Portfolio//" target="_blank">
