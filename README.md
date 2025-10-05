@@ -13,13 +13,12 @@
 
 ## About Me
 
-Hi, I'm Dhruv — a BTech CSE student with an interest in technology and development. I work on full-stack projects using Node.js, Express, MongoDB, and Flutter (mainly backend). Currently diving into the world of cybersecurity and always eager to learn more. Outside of code, I enjoy music, TV shows, movies, and occasionally playing guitar and piano (like everyone does).
-
+Hi, I'm Dhruv — a BTech CSE student with an interest in technology and development. I work on full-stack projects using FastAPI, Firebase, Supabase and Flutter (mainly backend). Currently diving into the world of cybersecurity and always eager to learn more.
 ---
 
-## 📄 Resume & 🌐 Portfolio
+## Resume & Portfolio
 
-Want to get to know me better? Check out my resume and portfolio below!
+Check out my resume and portfolio below
 
 <p align="center">
   <a href="https://github.com/embontooth/embontooth/raw/main/Resume.pdf" target="_blank">
@@ -98,13 +97,13 @@ Contributing to **Vehnicate**, a startup project focused on **gamifying driving*
 
 ---
 
-## 🛡 Cybersecurity Projects
+## Cybersecurity Projects
 
 - **Phishing Email Detection System** → Built with **Splunk, Wireshark, Nmap & Python**  
 - **DNS Enumeration Tool** → Scripted with `dns.resolver` to extract DNS records (A, AAAA, MX, TXT, SOA) 
 - **PDF Password Cracker** → Brute-force/wordlist-based PDF password recovery tool using `pikepdf`, multithreading, and tqdm 
 - **PDF Encryptor** → Python tool to encrypt PDF files with a password using `PyPDF2`
-- Just Look through my repos. There are more cybersec ones than development ones now
+- Take a look through my repos. There are more cybersec ones than development ones now
 *(More experiments ongoing — check pinned repos for updates.)*  
 
 ---
