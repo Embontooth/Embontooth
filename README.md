@@ -69,9 +69,9 @@ Check out my resume and portfolio below
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=embontooth&theme=vue" alt="GitHub Streak" />
 </div>
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=embontooth&theme=vue" alt="Activity Graph" />
-</div>
+</div> -->
 
 ## Featured Projects
 
