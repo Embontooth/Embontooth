@@ -15,7 +15,6 @@
 <p>
     Hi, I'm Dhruv — a BTech CSE student with an interest in technology and development. I work on full-stack projects using FastAPI, Firebase, Supabase and Flutter (mainly backend). Currently diving into the world of cybersecurity and always eager to learn more.
 </p>
----
 
 ## Resume & Portfolio
 
@@ -68,10 +67,10 @@ Check out my resume and portfolio below
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=embontooth&show_icons=true&theme=vue" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=embontooth&theme=vue" alt="GitHub Streak" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=embontooth&layout=compact&theme=vue" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=embontooth&theme=vue" alt="Activity Graph" />
 </div>
 
 ## Featured Projects
